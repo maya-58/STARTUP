@@ -1,0 +1,5 @@
+{
+    "mongoURI" : "mongodb+srv://admin123:admin123@devconnector.oqnz7.mongodb.net/db_startup?retryWrites=true&w=majority"
+
+    
+}
